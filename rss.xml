@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[For King and Company]]></title>
+        <description><![CDATA[For King and Company]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Apr 2016 00:04:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>If you’re reading this, I’m assuming that you’re in the group that wants to make a positive and meaningful impact on the world. I too am part of Generation Y looking to make my impact on the world. When I graduated from my undergraduate at Olivet Nazarene University, I flew out of the gate filled with ambition and passion to make my mark on the world. I just needed people to influence and a group to lead. Then I realized that the world doesn’t change very fast, and I wasn’t leading a group, so all that “making my mark” dream was rudely confronted by reality. Well, it’s a bit harder than I thought. So, what’s the plan? Do we take John Mayer’s advice and wait for the world to change? </p>]]></description>
+            <link>undefinedif-youre-reading-this-im-assuming-that-youre-in-the-grou/index.html</link>
+            <guid isPermaLink="false">4cce48e3-4c0a-4bef-90e5-e2e0d5e8be68</guid>
+            <pubDate>Wed, 27 Apr 2016 00:04:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
